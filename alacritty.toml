@@ -1,0 +1,9 @@
+[shell]
+program = "/bin/fish"
+args = ["-l", "-c", "zellij"]
+
+[font]
+normal = { family = "monospace", style = "Regular" }
+bold = { family = "monospace", style = "Bold" }
+italic = { family = "monospace", style = "Italic" }
+bold_italic = { family = "monospace", style = "Bold Italic" }
