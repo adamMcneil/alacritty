@@ -19,7 +19,7 @@ bindings = [
 
 [general]
 import = [
-  "~/.config/alacritty/themes/themes/thelovelace.toml"
+  "~/.config/alacritty/themes/themes/purple.toml"
 ]
 
 [terminal]
